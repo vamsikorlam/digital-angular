@@ -1,0 +1,6 @@
+li{
+    margin: 1px;
+}
+li>button.btn{
+    margin: 1px; 
+} 
